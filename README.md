@@ -33,13 +33,16 @@ O algoritmo realiza uma análise exploratória automática que responde a pergun
    git clone [https://github.com/SEU-USUARIO/analise-dados-spotify.git](https://github.com/SEU-USUARIO/analise-dados-spotify.git)
 
 2. Crie e ative um ambiente virtual:
+   ```bash
    python -m venv venv
    venv\Scripts\activate
 
-3. Instale as dependências
+4. Instale as dependências
+   ```bash
    pip install pandas
 
-4. Baixe um dataset de faixas do Spotify via Kaggle, renomeie para dataset_spotify.csv e coloque na raiz do projeto.
+6. Baixe um dataset de faixas do Spotify via Kaggle, renomeie para dataset_spotify.csv e coloque na raiz do projeto.
 
-5. Execute o script de análise:
+7. Execute o script de análise:
+   ```bash
    python analise_sabrina.py
