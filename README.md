@@ -30,7 +30,7 @@ O algoritmo realiza uma análise exploratória automática que responde a pergun
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/analise-dados-spotify.git](https://github.com/SEU-USUARIO/analise-dados-spotify.git)
+   git clone https://github.com/juniorrxcx/data-analysis-spotify.git
 
 2. Crie e ative um ambiente virtual:
    ```bash
